@@ -1,7 +1,7 @@
 ## AwesomenessBootstrap
 ====================
 
-> An Awesome template for BootStrap, Open Source and Anyone can use it ;)
+> An Awesome Theme for Website Powered by Bootstrap . Open Source and Anyone can use it ;)
 
 ===================
 ### Installation :
